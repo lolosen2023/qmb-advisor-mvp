@@ -1,0 +1,225 @@
+{
+  "generated_at": "2026-06-23T15:33:56.803Z",
+  "documents": [
+    {
+      "doc_id": "doc-1",
+      "source_path": "knowledge/sources/qmb-zunxiang/人保-813全民保-小雨竹保险问答信息.md",
+      "document_title": "人保-813全民保-小雨竹保险问答信息.md",
+      "topic": "compliance",
+      "priority": "legacy_faq",
+      "risk_level": "high",
+      "updated_or_legacy": "legacy",
+      "bytes": 9575
+    },
+    {
+      "doc_id": "doc-2",
+      "source_path": "knowledge/sources/qmb-zunxiang/人保全民保尊享版口播卡.md",
+      "document_title": "人保全民保尊享版口播卡.md",
+      "topic": "compliance",
+      "priority": "legacy_faq",
+      "risk_level": "high",
+      "updated_or_legacy": "legacy",
+      "bytes": 1704
+    },
+    {
+      "doc_id": "doc-3",
+      "source_path": "knowledge/sources/qmb-zunxiang/全民保尊享版 - 更新/1.保险责任理赔资料及流程.md",
+      "document_title": "1.保险责任理赔资料及流程.md",
+      "topic": "claim",
+      "priority": "official_updated",
+      "risk_level": "high",
+      "updated_or_legacy": "updated",
+      "bytes": 1632
+    },
+    {
+      "doc_id": "doc-4",
+      "source_path": "knowledge/sources/qmb-zunxiang/全民保尊享版 - 更新/2.方案.md",
+      "document_title": "2.方案.md",
+      "topic": "claim",
+      "priority": "official_updated",
+      "risk_level": "high",
+      "updated_or_legacy": "updated",
+      "bytes": 3560
+    },
+    {
+      "doc_id": "doc-5",
+      "source_path": "knowledge/sources/qmb-zunxiang/全民保尊享版 - 更新/3.健康服务手册（人保）/01-住院垫付服务.md",
+      "document_title": "01-住院垫付服务.md",
+      "topic": "claim",
+      "priority": "service_manual",
+      "risk_level": "high",
+      "updated_or_legacy": "updated",
+      "bytes": 22554
+    },
+    {
+      "doc_id": "doc-6",
+      "source_path": "knowledge/sources/qmb-zunxiang/全民保尊享版 - 更新/3.健康服务手册（人保）/02-特药服务.md",
+      "document_title": "02-特药服务.md",
+      "topic": "compliance",
+      "priority": "service_manual",
+      "risk_level": "high",
+      "updated_or_legacy": "updated",
+      "bytes": 118817
+    },
+    {
+      "doc_id": "doc-7",
+      "source_path": "knowledge/sources/qmb-zunxiang/全民保尊享版 - 更新/3.健康服务手册（人保）/03-重疾绿通（尊享版）.md",
+      "document_title": "03-重疾绿通（尊享版）.md",
+      "topic": "service",
+      "priority": "service_manual",
+      "risk_level": "low",
+      "updated_or_legacy": "updated",
+      "bytes": 305752
+    },
+    {
+      "doc_id": "doc-8",
+      "source_path": "knowledge/sources/qmb-zunxiang/全民保尊享版 - 更新/3.健康服务手册（人保）/README.md",
+      "document_title": "README.md",
+      "topic": "drug_benefit",
+      "priority": "service_manual",
+      "risk_level": "low",
+      "updated_or_legacy": "updated",
+      "bytes": 316
+    },
+    {
+      "doc_id": "doc-9",
+      "source_path": "knowledge/sources/qmb-zunxiang/全民保尊享版 - 更新/4.特别约定.md",
+      "document_title": "4.特别约定.md",
+      "topic": "claim",
+      "priority": "official_updated",
+      "risk_level": "high",
+      "updated_or_legacy": "updated",
+      "bytes": 5189
+    },
+    {
+      "doc_id": "doc-10",
+      "source_path": "knowledge/sources/qmb-zunxiang/全民保尊享版 - 更新/5.投保须知.md",
+      "document_title": "5.投保须知.md",
+      "topic": "compliance",
+      "priority": "official_updated",
+      "risk_level": "high",
+      "updated_or_legacy": "updated",
+      "bytes": 10722
+    },
+    {
+      "doc_id": "doc-11",
+      "source_path": "knowledge/sources/qmb-zunxiang/全民保尊享版 - 更新/6.责任免除.md",
+      "document_title": "6.责任免除.md",
+      "topic": "drug_benefit",
+      "priority": "official_updated",
+      "risk_level": "high",
+      "updated_or_legacy": "updated",
+      "bytes": 74451
+    },
+    {
+      "doc_id": "doc-12",
+      "source_path": "knowledge/sources/qmb-zunxiang/全民保尊享版 - 更新/7.药品清单.md",
+      "document_title": "7.药品清单.md",
+      "topic": "drug_benefit",
+      "priority": "official_updated",
+      "risk_level": "low",
+      "updated_or_legacy": "updated",
+      "bytes": 3392
+    },
+    {
+      "doc_id": "doc-13",
+      "source_path": "knowledge/sources/qmb-zunxiang/全民保尊享版 - 更新/8.条款/070778-附加扩展既往症保险（互联网专属）条.md",
+      "document_title": "070778-附加扩展既往症保险（互联网专属）条.md",
+      "topic": "pre_existing",
+      "priority": "official_updated",
+      "risk_level": "high",
+      "updated_or_legacy": "updated",
+      "bytes": 3466
+    },
+    {
+      "doc_id": "doc-14",
+      "source_path": "knowledge/sources/qmb-zunxiang/全民保尊享版 - 更新/8.条款/070823-健康保险附加扩展外购药械医疗保险（20.md",
+      "document_title": "070823-健康保险附加扩展外购药械医疗保险（20.md",
+      "topic": "drug_benefit",
+      "priority": "official_updated",
+      "risk_level": "low",
+      "updated_or_legacy": "updated",
+      "bytes": 5764
+    },
+    {
+      "doc_id": "doc-15",
+      "source_path": "knowledge/sources/qmb-zunxiang/全民保尊享版 - 更新/8.条款/住院医疗保险（2024版）（互联网专属）条款保险条款.md",
+      "document_title": "住院医疗保险（2024版）（互联网专属）条款保险条款.md",
+      "topic": "drug_benefit",
+      "priority": "official_updated",
+      "risk_level": "low",
+      "updated_or_legacy": "updated",
+      "bytes": 132596
+    },
+    {
+      "doc_id": "doc-16",
+      "source_path": "knowledge/sources/qmb-zunxiang/全民保尊享版 - 更新/产品需求文档-813全民保尊享版.md",
+      "document_title": "产品需求文档-813全民保尊享版.md",
+      "topic": "claim",
+      "priority": "official_updated",
+      "risk_level": "high",
+      "updated_or_legacy": "updated",
+      "bytes": 3166
+    },
+    {
+      "doc_id": "doc-17",
+      "source_path": "knowledge/sources/qmb-zunxiang/全民保尊享版-813全民保问答.md",
+      "document_title": "全民保尊享版-813全民保问答.md",
+      "topic": "claim",
+      "priority": "legacy_faq",
+      "risk_level": "high",
+      "updated_or_legacy": "legacy",
+      "bytes": 25326
+    },
+    {
+      "doc_id": "doc-18",
+      "source_path": "knowledge/sources/qmb-zunxiang/既往症.md",
+      "document_title": "既往症.md",
+      "topic": "claim",
+      "priority": "source",
+      "risk_level": "high",
+      "updated_or_legacy": "curated_or_source",
+      "bytes": 1438
+    },
+    {
+      "doc_id": "doc-19",
+      "source_path": "knowledge/sources/qmb-zunxiang/直播间话术引发退保问题汇总.md",
+      "document_title": "直播间话术引发退保问题汇总.md",
+      "topic": "compliance",
+      "priority": "compliance",
+      "risk_level": "high",
+      "updated_or_legacy": "curated_or_source",
+      "bytes": 3693
+    },
+    {
+      "doc_id": "doc-20",
+      "source_path": "knowledge/sources/qmb-zunxiang/违规话术.md",
+      "document_title": "违规话术.md",
+      "topic": "compliance",
+      "priority": "compliance",
+      "risk_level": "high",
+      "updated_or_legacy": "curated_or_source",
+      "bytes": 4436
+    },
+    {
+      "doc_id": "doc-21",
+      "source_path": "knowledge/sources/qmb-zunxiang/（客服）权益服务—全民保（小雨竹健康险）.md",
+      "document_title": "（客服）权益服务—全民保（小雨竹健康险）.md",
+      "topic": "compliance",
+      "priority": "service_manual",
+      "risk_level": "high",
+      "updated_or_legacy": "curated_or_source",
+      "bytes": 1499
+    },
+    {
+      "doc_id": "doc-22",
+      "source_path": "knowledge/curated/全民保尊享版_客服销售助手知识库.md",
+      "document_title": "全民保尊享版_客服销售助手知识库.md",
+      "topic": "compliance",
+      "priority": "curated",
+      "risk_level": "high",
+      "updated_or_legacy": "curated_or_source",
+      "bytes": 45192
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+.env.local
+node_modules/
+data/conversations/
+data/handoff-tickets/
+data/memory/
+output/
+*.log
